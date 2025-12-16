@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "24vp"
+    },
+    {
+      "name": "subtitle_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "body_font_size",
+      "value": "14vp"
+    },
+    {
+      "name": "small_font_size",
+      "value": "12vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "card_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "input_height",
+      "value": "50vp"
+    }
+  ]
+}

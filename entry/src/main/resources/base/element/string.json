@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_name",
+      "value": "我的日记本"
+    },
+    {
+      "name": "add_diary",
+      "value": "写日记"
+    },
+    {
+      "name": "edit_diary",
+      "value": "编辑日记"
+    },
+    {
+      "name": "diary_title",
+      "value": "日记标题"
+    },
+    {
+      "name": "diary_content",
+      "value": "日记内容"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索日记标题或内容..."
+    },
+    {
+      "name": "empty_diary",
+      "value": "还没有日记，开始记录吧！"
+    },
+    {
+      "name": "first_diary",
+      "value": "写第一篇日记"
+    },
+    {
+      "name": "delete_confirm",
+      "value": "确定要删除这篇日记吗？"
+    }
+  ]
+}

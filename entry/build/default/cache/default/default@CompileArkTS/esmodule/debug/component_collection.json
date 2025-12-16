@@ -1,0 +1,30 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "Text",
+    "Column",
+    "Row",
+    "Blank",
+    "Button",
+    "TextInput",
+    "List",
+    "ForEach",
+    "ListItem",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\DiaryEdit.ets": [
+    "Flex",
+    "ForEach",
+    "Button",
+    "Row",
+    "Text",
+    "Column",
+    "Scroll",
+    "TextInput",
+    "Blank",
+    "TextArea",
+    "If"
+  ]
+}
